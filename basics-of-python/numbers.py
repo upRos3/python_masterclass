@@ -7,7 +7,10 @@ print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
+
+# returns an int that will be floored
 print(a // b)
+
 print(a % b)
 
 for i in range(1, a//b):
