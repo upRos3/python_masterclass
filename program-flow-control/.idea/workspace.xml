@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30446c6e-57b5-49ea-9ab9-61d19e49f053" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/forLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/forLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/continueBreakAndElse.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forLoops.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="forLoops.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forLoops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="489">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="continueBreakAndElse.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/continueBreakAndElse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -55,6 +64,7 @@
         <option value="$PROJECT_DIR$/ifProgramFlow2.py" />
         <option value="$PROJECT_DIR$/ifChallenge.py" />
         <option value="$PROJECT_DIR$/forLoops.py" />
+        <option value="$PROJECT_DIR$/continueBreakAndElse.py" />
       </list>
     </option>
   </component>
@@ -104,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.forLoops">
+  <component name="RunManager" selected="Python.continueBreakAndElse">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -123,6 +133,24 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="continueBreakAndElse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="program-flow-control" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/continueBreakAndElse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="forLoops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="program-flow-control" />
@@ -196,24 +224,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tabs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="program-flow-control" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -237,19 +247,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.tabs" />
       <item itemvalue="Python.ifProgramFlow" />
       <item itemvalue="Python.ifProgramFlow2" />
       <item itemvalue="Python.ifChallenge" />
       <item itemvalue="Python.forLoops" />
+      <item itemvalue="Python.continueBreakAndElse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.continueBreakAndElse" />
         <item itemvalue="Python.forLoops" />
         <item itemvalue="Python.ifChallenge" />
         <item itemvalue="Python.ifProgramFlow2" />
         <item itemvalue="Python.ifProgramFlow" />
-        <item itemvalue="Python.tabs" />
       </list>
     </recent_temporary>
   </component>
@@ -368,8 +378,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forLoops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="489">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/continueBreakAndElse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
