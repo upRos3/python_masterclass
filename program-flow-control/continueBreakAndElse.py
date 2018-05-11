@@ -36,4 +36,4 @@ if nasty_food_item:
     print("Can't I have anything without spam in it?!")
 
 # Python does not have strict convention on naming variables, you can use snake case or
-# camel case but be consistent. It is also case sensitive.
+# camel case but be consistent. Remember: It is also case sensitive.
