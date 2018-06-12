@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30446c6e-57b5-49ea-9ab9-61d19e49f053" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/challenge.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileLoopChallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="continueBreakAndElse.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/continueBreakAndElse.py">
+      <file leaf-file-name="ifProgramFlow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ifProgramFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="512">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <marker date="1523487942042" expanded="true" signature="0:316" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whileLoops.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whileLoops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="37" column="22" lean-forward="true" selection-start-line="29" selection-end-line="47" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whileLoopChallenge.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/whileLoopChallenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -46,6 +69,8 @@
         <option value="$PROJECT_DIR$/continueBreakAndElse.py" />
         <option value="$PROJECT_DIR$/augmentedAssignment.py" />
         <option value="$PROJECT_DIR$/challenge.py" />
+        <option value="$PROJECT_DIR$/whileLoops.py" />
+        <option value="$PROJECT_DIR$/whileLoopChallenge.py" />
       </list>
     </option>
   </component>
@@ -95,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.challenge">
+  <component name="RunManager" selected="Python.whileLoopChallenge">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -169,7 +194,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="forLoops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="whileLoopChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="program-flow-control" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,13 +206,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forLoops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whileLoopChallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ifChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="whileLoops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="program-flow-control" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,7 +224,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifChallenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whileLoops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,19 +253,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.ifChallenge" />
-      <item itemvalue="Python.forLoops" />
       <item itemvalue="Python.continueBreakAndElse" />
       <item itemvalue="Python.augmentedAssignment" />
       <item itemvalue="Python.challenge" />
+      <item itemvalue="Python.whileLoops" />
+      <item itemvalue="Python.whileLoopChallenge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.whileLoopChallenge" />
+        <item itemvalue="Python.whileLoops" />
         <item itemvalue="Python.challenge" />
         <item itemvalue="Python.augmentedAssignment" />
         <item itemvalue="Python.continueBreakAndElse" />
-        <item itemvalue="Python.forLoops" />
-        <item itemvalue="Python.ifChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -275,12 +300,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.3183716" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.27453026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.27453026" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -361,34 +386,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ifChallenge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ifProgramFlow2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tabs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ifProgramFlow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <marker date="1523487942042" expanded="true" signature="0:316" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -413,10 +414,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/programFlowChallenge.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifProgramFlow2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/continueBreakAndElse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="570">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifProgramFlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <marker date="1523487942042" expanded="true" signature="0:316" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whileLoops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="29" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whileLoopChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
