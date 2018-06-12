@@ -25,3 +25,17 @@
 # you could use other techniques (such as splitting the string up), that's not the
 # approach we're looking for here.
 
+ipAddress = input("Please type in an ip address: ")
+if ipAddress == "" or ipAddress[-1] != ".":
+    ipAddress += "."
+
+segment = 1
+segmentLength = 0
+
+for character in ipAddress:
+    if character == ".":
+        print("Segment {} contains {} characters".format(segment, segmentLength))
+        segment += 1
+        segmentLength = 0
+    else:
+        segmentLength += 1
